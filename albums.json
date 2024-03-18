@@ -2,13 +2,13 @@
   "albums": [
     {
       "Album_title": "Varsham",
-      "artist": "sobhan",
+      "artist": "Devi Sri Prasad",
       "songs": ["Mellagaa", "Nizam Pori", "Langa Voni", "Kopama"],
       "release_date": 2004
     },
     {
       "Album_title": "Arya-2",
-      "artist": "sukumar",
+      "artist": "Devi Sri Prasad",
       "songs": [
         "Mr. Perfect",
         "Uppenantha",
@@ -21,7 +21,7 @@
       "release_date": 2009
     },
     {
-      "Album_title": "pushpa",
+      "Album_title": "Devi Sri Prasad",
       "artist": "Sukumar",
       "songs": [
         "Daakko Daakko Meka",
@@ -34,7 +34,7 @@
     },
     {
       "Album_title": "Ninnu Kori",
-      "artist": "sid sriram",
+      "artist": "Gopi Sunder",
       "songs": [
         "Adiga Adiga",
         "Unnatundi Gundey",
@@ -46,7 +46,7 @@
     },
     {
       "Album_title": "Geetha Govindam",
-      "artist": "sid sriram",
+      "artist": "Gopi Sunder",
       "songs": [
         "Inkem Inkem",
         "What the Life",
@@ -55,6 +55,18 @@
         "Kanureppala Kaalam"
       ],
       "release_date": 2021
+    },
+    {
+      "Album_title": "Daddy",
+      "artist": "S. A. Rajkumar",
+      "songs": [
+        "Aadu Aadinchu",
+        "Mandhaara Buggalloki",
+        "Vaana Vaana,Gummaadi Gummaadi",
+        "Naa Praanama",
+        "Patta Pakkinti,Dooranga Poke"
+      ],
+      "release_date": 2001
     }
   ]
 }
