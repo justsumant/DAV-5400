@@ -3,69 +3,37 @@
     {
       "Album_title": "Varsham",
       "artist": "Devi Sri Prasad",
-      "songs": ["Mellagaa", "Nizam Pori", "Langa Voni", "Kopama"],
+      "songs": "Mellagaa, Nizam Pori, Langa Voni, Kopama",
       "release_date": 2004
     },
     {
       "Album_title": "Arya-2",
       "artist": "Devi Sri Prasad",
-      "songs": [
-        "Mr. Perfect",
-        "Uppenantha",
-        "Baby He Loves You",
-        "Ringa Ringa",
-        "Karige Loga",
-        "My Love Is Gone",
-        "Karige Loga"
-      ],
+      "songs": "Mr. Perfect, Uppenantha, Baby He Loves You, Ringa Ringa, Karige Loga, My Love Is Gone, Karige Loga",
       "release_date": 2009
     },
     {
-      "Album_title": "Devi Sri Prasad",
-      "artist": "Sukumar",
-      "songs": [
-        "Daakko Daakko Meka",
-        "Srivalli",
-        "Oo Antava Oo Oo Antava",
-        "Saami Saami",
-        "Eyy Bidda Idhi Naa Adda"
-      ],
+      "Album_title": "pushpa",
+      "artist": "Devi Sri Prasad",
+      "songs": "Daakko Daakko Meka, Srivalli, Oo Antava Oo Oo Antava, Saami Saami, Eyy Bidda Idhi Naa Adda",
       "release_date": 2021
     },
     {
       "Album_title": "Ninnu Kori",
       "artist": "Gopi Sunder",
-      "songs": [
-        "Adiga Adiga",
-        "Unnatundi Gundey",
-        "Once Upon A Time Lo",
-        "Ninnu Kori Tittle Song",
-        "Hey Badhulu Cheppavey"
-      ],
+      "songs": "Adiga Adiga, Unnatundi Gundey, Once Upon A Time Lo, Ninnu Kori Tittle Song, Hey Badhulu Cheppavey",
       "release_date": 2017
     },
     {
       "Album_title": "Geetha Govindam",
       "artist": "Gopi Sunder",
-      "songs": [
-        "Inkem Inkem",
-        "What the Life",
-        "Vachindamma",
-        "Yenti Yenti",
-        "Kanureppala Kaalam"
-      ],
+      "songs": "Inkem Inkem, What the Life, Vachindamma, Yenti Yenti, Kanureppala Kaalam",
       "release_date": 2021
     },
     {
       "Album_title": "Daddy",
       "artist": "S. A. Rajkumar",
-      "songs": [
-        "Aadu Aadinchu",
-        "Mandhaara Buggalloki",
-        "Vaana Vaana,Gummaadi Gummaadi",
-        "Naa Praanama",
-        "Patta Pakkinti,Dooranga Poke"
-      ],
+      "songs": "Aadu Aadinchu, Mandhaara Buggalloki, Vaana Vaana, Gummaadi Gummaadi, Naa Praanama, Patta Pakkinti, Dooranga Poke",
       "release_date": 2001
     }
   ]
